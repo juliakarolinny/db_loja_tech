@@ -1,1 +1,1 @@
-# db_-loja_tech
+# db_loja_tech
