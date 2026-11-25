@@ -344,10 +344,3 @@ WHERE p.estoque <= p.estoque_minimo
 
 ---
 
-## 📚 Referências Bibliográficas
-
-* **MATERIAL DE AULA.** *Stored Procedures no MySQL — Banco de Dados da Aula: `loja_tech`* (Apostila e Lista de Exercícios da Disciplina).
-* **ORACLE / MYSQL.** *MySQL 8.0 Reference Manual: Stored Objects (Stored Procedures and Views)*. Disponível em: [https://dev.mysql.com/doc/refman/8.0/en/stored-objects.html](https://dev.mysql.com/doc/refman/8.0/en/stored-objects.html).
-* **ORACLE / MYSQL.** *MySQL 8.0 Reference Manual: Using Views*. Disponível em: [https://dev.mysql.com/doc/refman/8.0/en/views.html](https://dev.mysql.com/doc/refman/8.0/en/views.html).
-* **ELMASRI, R.; NAVATHE, S. B.** *Sistemas de Banco de Dados*. 7ª ed. São Paulo: Pearson, 2019.
-* **SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S.** *Sistema de Banco de Dados*. 7ª ed. Rio de Janeiro: LTC, 2020.
